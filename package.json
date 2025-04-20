@@ -1,0 +1,26 @@
+{
+  "name": "transactions-app",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://sergiorl13.github.io/transaction-app",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^4.0.0",
+    "typescript": "^5.1.6",
+    "vite": "^4.3.9",
+    "gh-pages": "^5.0.0"
+  }
+}

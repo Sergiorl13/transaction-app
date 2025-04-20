@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",                       // Objetivo moderno
+    "useDefineForClassFields": true,
+    "lib": ["DOM", "DOM.Iterable", "ESNext"], // Librerías disponibles
+    "jsx": "react-jsx",                       // Soporte JSX en React 18+
+    "strict": true,                           // Habilita todas las comprobaciones estrictas
+    "module": "ESNext",                       // Módulos de tipo ESM
+    "moduleResolution": "Node",               // Resolución al estilo Node.js
+    "resolveJsonModule": true,                // Permite import JSON como módulo
+    "esModuleInterop": true,                  // Compatibilidad CommonJS ↔ ESM
+    "isolatedModules": true,                  // Cada archivo es un módulo aislado
+    "skipLibCheck": true,                     // Salta chequeo de tipos en node_modules
+    "forceConsistentCasingInFileNames": true  // Previene problemas de mayúsculas/minúsculas
+  },
+  "include": [
+    "src"   // Incluye todos los .ts y .tsx dentro de src
+  ]
+}

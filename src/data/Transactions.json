@@ -1,0 +1,105 @@
+[
+  {
+    "id": "1",
+    "type": "Credit",
+    "amount": 14.06,
+    "name": "Apple",
+    "description": "Card Number Used",
+    "date": "2025-04-18T12:00:00.000Z",
+    "pending": true,
+    "authorizedUser": "Diana",
+    "icon": "fa-apple",
+    "logo": "apple.png"
+  },
+  {
+    "id": "2",
+    "type": "Payment",
+    "amount": 174.00,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National",
+    "date": "2025-04-16T09:30:00.000Z",
+    "icon": "fa-wallet",
+    "logo": "wallet.png"
+  },
+  {
+    "id": "3",
+    "type": "Credit",
+    "amount": 3.24,
+    "name": "Amazon",
+    "description": "Card Number Used",
+    "date": "2025-04-16T14:00:00.000Z",
+    "authorizedUser": "Diana",
+    "icon": "fa-amazon",
+    "logo": "amazon.png"
+  },
+  {
+    "id": "4",
+    "type": "Payment",
+    "amount": 99.71,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National",
+    "date": "2025-04-14T11:15:00.000Z",
+    "icon": "fa-wallet",
+    "logo": "wallet.png"
+  },
+  {
+    "id": "5",
+    "type": "Payment",
+    "amount": 73.58,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National",
+    "date": "2025-04-13T16:45:00.000Z",
+    "icon": "fa-wallet",
+    "logo": "wallet.png"
+  },
+  {
+    "id": "6",
+    "type": "Credit",
+    "amount": 21.61,
+    "name": "IKEA",
+    "description": "Round Rock, TX",
+    "date": "2022-10-01T10:00:00.000Z",
+    "icon": "fa-store",
+    "logo": "ikea.png"
+  },
+  {
+    "id": "7",
+    "type": "Credit",
+    "amount": 73.58,
+    "name": "Target",
+    "description": "Cedar Park, TX",
+    "date": "2022-09-15T14:30:00.000Z",
+    "icon": "fa-bullseye",
+    "logo": "target.png"
+  },
+  {
+    "id": "8",
+    "type": "Credit",
+    "amount": 12.99,
+    "name": "Netflix",
+    "description": "Monthly Subscription",
+    "date": "2025-03-28T08:20:00.000Z",
+    "icon": "fa-film",
+    "logo": "netflix.png"
+  },
+  {
+    "id": "9",
+    "type": "Credit",
+    "amount": 9.99,
+    "name": "Spotify",
+    "description": "Monthly Subscription",
+    "date": "2025-03-20T07:10:00.000Z",
+    "icon": "fa-music",
+    "logo": "spotify.png"
+  },
+  {
+    "id": "10",
+    "type": "Payment",
+    "amount": 200.00,
+    "name": "Payment",
+    "description": "From Bank of America",
+    "date": "2025-04-01T12:00:00.000Z",
+    "icon": "fa-wallet",
+    "logo": "wallet.png"
+  }
+]
